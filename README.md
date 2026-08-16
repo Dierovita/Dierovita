@@ -1,14 +1,9 @@
 <img align='center' src="GitGif.gif" width='100%' border-bottom='solid white'>
 <p align='center'>---------------------------------------------------------------------------</p>
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=diego-vitali&show_icons=true&title_color=ffffff&text_color=ecf2ea&icon_color=ff6e00&bg_color=0e243c&cache_seconds=2300" alt="ilustração do status do github">
-<br>
-
 ### Olá, meu nome é Diego Vitali!
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=DIEGO VITALI&color=ff6e00&style=for-the-badge&logo=GitHub" alt="Static GitHub">
-
-<p>Estudante de ADS do IFSP!<br/> Eu sou analista e engenheiro de dados e estudante focado em DevOps e Back-End!</p>
+<p>Formado em Análise e Desenvolvimento pelo IFSP<br/> Eu sou Engenheiro de IA e Dados, Dev Back-end e amante da tecnologia.</p>
 <br>
 <br>
 <p align='center'> - > CONTATO < -</p>
